@@ -1,4 +1,3 @@
-import java.util.Objects;
 import java.util.Scanner;
 
 public class o_SwitchCase {
@@ -22,7 +21,7 @@ public class o_SwitchCase {
         switch (nilaiStr) {
             case "A":
                 System.out.println("Nilai anda sangat bagus");
-                break;
+                break; // Jika tidak dibreak maka baris selanjutnya dalam blok akan dieksekusi
             case "B":
                 System.out.println("Nilai anda bagus");
                 break;
