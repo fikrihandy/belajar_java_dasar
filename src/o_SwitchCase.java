@@ -28,7 +28,7 @@ public class o_SwitchCase {
             case "C":
                 System.out.println("Nilai anda cukup");
                 break;
-            default:
+            default: // Dilakukan saat case tidak mendapati hasil
                 System.out.println("Invalid");
         }
     }
