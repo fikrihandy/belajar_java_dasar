@@ -6,11 +6,11 @@ public class o_SwitchCase {
         System.out.print("Masukkan nilai (A/B/C) = ");
         String nilaiStr = scanner.next().toUpperCase();
 
-        // Versi singkat
+        // Versi singkat (Switch lambda)
         switch (nilaiStr) {
             case "A" -> System.out.println("Nilai anda sangat bagus");
-            case "B" -> System.out.println("Nilai anda bagus");
-            case "C" -> System.out.println("Nilai anda cukup");
+            case "B", "C" -> System.out.println("Nilai anda bagus");
+            case "D" -> System.out.println("Nilai anda kurang");
             default -> System.out.println("Invalid");
         }
 
@@ -31,5 +31,22 @@ public class o_SwitchCase {
             default: // Dilakukan saat case tidak mendapati hasil
                 System.out.println("Invalid");
         }
+
+        // Switch dengan yield
+        System.out.print("Masukkan nilai (A/B/C/D) = ");
+        String nilai = scanner.next().toUpperCase();
+
+        String ucapan = switch (nilai) {
+            case "A":
+                yield "Anda Lulus dengan Baik"; // Mengembalikan nilai
+            case "B", "C":
+                yield "Anda Lulus";
+            case "D":
+                yield "Anda tidak lulus";
+            default:
+                yield "Salah Jurusan ?";
+        };
+        System.out.println(ucapan);
+
     }
 }
