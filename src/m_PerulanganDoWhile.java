@@ -1,6 +1,4 @@
-package part_1;
-
-public class s_PerulanganDoWhile {
+public class m_PerulanganDoWhile {
     public static void main(String[] args) {
         // pengecekan kondisi dilakukan diakhir
         // minimal perulangan dilakukan 1x

@@ -1,5 +1,3 @@
-package part_1;
-
 public class i_TipeDataBukanPrimitif {
     // Contoh => Objek => String => Memiliki method
     // Default value = null

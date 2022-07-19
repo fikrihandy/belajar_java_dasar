@@ -1,6 +1,4 @@
-package part_1;
-
-public class y_MethodOverloading {
+public class o_MethodOverloading {
     static void sayHello() {
         System.out.println("1. Hello");
     }

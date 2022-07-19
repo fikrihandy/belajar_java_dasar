@@ -1,6 +1,4 @@
-package part_1;
-
-public class l_OperasiPerbandingan {
+public class k_OperasiPerbandingan {
     public static void main(String[] args) {
 
         // menghasilkan data boolean, true dan false

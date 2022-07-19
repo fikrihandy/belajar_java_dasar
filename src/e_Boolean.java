@@ -1,5 +1,3 @@
-package part_1;
-
 public class e_Boolean {
     public static void main(String[] args) {
 

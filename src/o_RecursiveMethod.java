@@ -1,6 +1,4 @@
-package part_1;
-
-public class z_RecursiveMethod {
+public class o_RecursiveMethod {
     static int factorialRecrusive(int value) {
         if (value == 1) {
             return 1;

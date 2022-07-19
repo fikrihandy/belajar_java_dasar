@@ -1,6 +1,4 @@
-package part_1;
-
-public class q_PerulanganFor {
+public class m_PerulanganFor {
     public static void main(String[] args) {
         // for (init statement | kondisi | post statement)
         // init statement => dieksekusi sekali saat pertama dijalankan

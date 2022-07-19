@@ -1,6 +1,4 @@
-package part_1;
-
-public class t_BreakDiLoop {
+public class n_BreakDiLoop {
     public static void main(String[] args) {
         byte counter = -10;
         while (true) {

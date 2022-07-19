@@ -1,6 +1,4 @@
-package part_1;
-
-public class v_PerulanganForEach {
+public class m_PerulanganForEach {
     public static void main(String[] args) {
         String[] array = {"Abdullah", "Fikri", "Handi", "Saputra"};
 

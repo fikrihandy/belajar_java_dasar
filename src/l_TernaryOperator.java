@@ -1,6 +1,4 @@
-package part_1;
-
-public class p_TernaryOperator {
+public class l_TernaryOperator {
     public static void main(String[] args) {
 
         byte nilai = 75;

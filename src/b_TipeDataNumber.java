@@ -1,5 +1,3 @@
-package part_1;
-
 public class b_TipeDataNumber {
     public static void main(String[] args) {
 

@@ -1,5 +1,3 @@
-package part_1;
-
 public class j_TipeDataArray {
     public static void main(String[] args) {
 

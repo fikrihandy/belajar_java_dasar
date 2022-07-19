@@ -1,6 +1,4 @@
-package part_1;
-
-public class m_OperasiBoolean {
+public class k_OperasiBoolean {
     public static void main(String[] args) {
         // &&   => AND ==> semua harus true untuk mendapatkan hasil TRUE
         // ||   => OR ==> jika ada salah satu true maka mendapat hasil TRUE

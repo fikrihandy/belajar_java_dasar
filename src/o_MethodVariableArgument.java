@@ -1,6 +1,4 @@
-package part_1;
-
-public class x_MethodVariableArgument {
+public class o_MethodVariableArgument {
     static void sayCongrats(String name, int... values) { // variable argument
         var total = 0;
         for (var value : values) {

@@ -1,8 +1,6 @@
-package part_1;
-
 import java.util.Scanner;
 
-public class o_SwitchCase {
+public class l_SwitchCase {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Masukkan nilai (A/B/C) = ");

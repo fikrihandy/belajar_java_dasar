@@ -1,5 +1,3 @@
-package part_1;
-
 public class c_KonversiTipeDataNumber {
     public static void main(String[] args) {
 

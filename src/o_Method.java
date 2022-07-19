@@ -1,6 +1,4 @@
-package part_1;// method atau function adalah blok kode program yang berkajalan saat dipanggil
-
-public class w_Method {
+public class o_Method {
     static void sayHello() { // membuat method
         System.out.println("Hello");
     }

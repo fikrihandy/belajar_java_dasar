@@ -1,6 +1,4 @@
-package part_1;
-
-public class r_PerulanganWhile {
+public class m_PerulanganWhile {
     public static void main(String[] args) {
         // while (kondisi)
         // jika kondisi adalah TRUE blok perulangan akan dijalankan, jika FALSE perulangan tidak dijalankan.

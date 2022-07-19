@@ -1,9 +1,7 @@
-package part_1;
-
 import java.util.Objects;
 import java.util.Scanner;
 
-public class n_If {
+public class l_If {
     public static void main(String[] args) {
 
         byte nilai = 60;

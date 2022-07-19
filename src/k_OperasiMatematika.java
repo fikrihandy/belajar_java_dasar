@@ -1,5 +1,3 @@
-package part_1;
-
 public class k_OperasiMatematika {
     public static void main(String[] args) {
 
