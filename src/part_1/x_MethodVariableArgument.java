@@ -1,3 +1,5 @@
+package part_1;
+
 public class x_MethodVariableArgument {
     static void sayCongrats(String name, int... values) { // variable argument
         var total = 0;

@@ -1,3 +1,5 @@
+package part_1;
+
 public class l_OperasiPerbandingan {
     public static void main(String[] args) {
 

@@ -1,3 +1,5 @@
+package part_1;
+
 public class r_PerulanganWhile {
     public static void main(String[] args) {
         // while (kondisi)

@@ -1,3 +1,5 @@
+package part_1;
+
 public class y_MethodOverloading {
     static void sayHello() {
         System.out.println("1. Hello");

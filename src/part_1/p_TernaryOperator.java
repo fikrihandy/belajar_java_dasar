@@ -1,3 +1,5 @@
+package part_1;
+
 public class p_TernaryOperator {
     public static void main(String[] args) {
 

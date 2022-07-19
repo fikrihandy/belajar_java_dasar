@@ -1,3 +1,5 @@
+package part_1;
+
 import java.util.Scanner;
 
 public class o_SwitchCase {

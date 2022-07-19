@@ -1,3 +1,5 @@
+package part_1;
+
 public class g_Variable {
     public static void main(String[] args) {
         // Digunakan untuk menyimpan data dalam memori

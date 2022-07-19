@@ -1,3 +1,5 @@
+package part_1;
+
 public class d_Character {
     public static void main(String[] args) {
         // Menggunakan tanda petik 1 (') diawal dan diakhir karakter

@@ -1,3 +1,5 @@
+package part_1;
+
 public class b_TipeDataNumber {
     public static void main(String[] args) {
 
@@ -43,6 +45,6 @@ public class b_TipeDataNumber {
         int sum = 60_000_000;
         System.out.println("long (underscore) = " + balance);
         System.out.println("int (underscore) = " + sum);
-        
+
     }
 }
